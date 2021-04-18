@@ -10,7 +10,7 @@ import { colors } from './utils';
 import ReloadIcon from './Components/reloadIcon'
 import WeatherDetails from './Components/WeatherDetails'
 
-import {WEATHER_API_KEY} from 'react-native-dotenv'
+
 import config from './config'
 
 
